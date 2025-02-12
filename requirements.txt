@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+lxml
+flask         # if you plan to create a web dashboard later
+APScheduler   # for scheduling scrapes (optional)
